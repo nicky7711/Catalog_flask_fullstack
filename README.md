@@ -13,5 +13,5 @@ Catalog is an application that provides a list of items within a variety of cate
 
 ## Remark
 * It is completely optional to put your own Google OAuth API key to run the application.
-* In case database is not properly setup, you can delete and rerun *database_setup.py* first.
+* In case database is not properly setup, you can delete .db files and rerun *database_setup.py* first.
 * In case you want to populate some dummy data, you can run *lotsofmenus.py*
